@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitHub.Pages.Metrics.Build", "build\GitHub.Pages.Metrics.Build.csproj", "{6F793627-59AB-47F0-83CF-AC15880C71BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitHub.Pages.Metrics", "src\GitHub.Pages.Metrics\GitHub.Pages.Metrics.csproj", "{658D2101-C76E-4D3F-B640-25476A7A0FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F793627-59AB-47F0-83CF-AC15880C71BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F793627-59AB-47F0-83CF-AC15880C71BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F793627-59AB-47F0-83CF-AC15880C71BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658D2101-C76E-4D3F-B640-25476A7A0FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658D2101-C76E-4D3F-B640-25476A7A0FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658D2101-C76E-4D3F-B640-25476A7A0FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658D2101-C76E-4D3F-B640-25476A7A0FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0B4889F-152F-4126-9E50-6B697A3B54BB}
+	EndGlobalSection
+EndGlobal

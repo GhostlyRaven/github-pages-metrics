@@ -1,0 +1,11 @@
+{
+  "GitHubPagesUrlsForCors": [
+    "http://127.0.0.1:5500"
+  ],
+  "MeterNames": [
+    "page_number_1",
+    "page_number_2",
+    "page_number_3",
+    "page_number_4"
+  ]
+}
